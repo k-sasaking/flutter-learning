@@ -18,7 +18,11 @@ Android Studioは、Androidアプリ開発用の公式の統合開発環境(IDE)
 
 ## Android Studioのインストール
 
-1. 以下のページにアクセスしてください。
+1. 以下のページにアクセスし、最新のAndroid Studioをインストールする。
+
+    [https://developer.android.com/studio?hl=ja](https://developer.android.com/studio?hl=ja)
+
+1. 続いて、以下のページへアクセスする
 
     [https://developer.android.com/studio/install?hl=ja](https://developer.android.com/studio/install?hl=ja)
 
