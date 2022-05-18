@@ -31,7 +31,9 @@ Software Development Kit = ソフトウェア開発キット
 
     Macの場合:
     <br/>
-    <img src="../images/flutterInstallMac.png" width="50%">
+    <img src="../images/flutterInstallMac2.png" width="50%">
+
+    ※M1チップの人とそうでない人でボタンが異なります。
 
     <br/>
 
@@ -47,6 +49,8 @@ Software Development Kit = ソフトウェア開発キット
 1. ここからOS毎に解説
 
     - Macの場合
+
+    <iframe width="560" height="315" src="https://www.youtube.com/embed/QZQX77puYV4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 
 
