@@ -30,7 +30,7 @@ Android Studioは、Androidアプリ開発用の公式の統合開発環境(IDE)
 
     -  Windowsのやり方
 
-    <video src=",,/videos/studio-install-windows.mp4" height="300">
+    <video controls src="../videos/studio-install-windows.mp4" height="300">
     </video>
 
     ※途中、ライセンスが求められる場合、以下の画像のように、全てacceptしてください。
@@ -42,7 +42,7 @@ Android Studioは、Androidアプリ開発用の公式の統合開発環境(IDE)
 
     - Macのやり方
 
-    <video src=",,/videos/studio-install-mac.mp4" height="300">
+    <video controls src="../videos/studio-install-mac.mp4" height="300">
     </video>
    
 

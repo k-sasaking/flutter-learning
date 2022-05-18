@@ -5,16 +5,24 @@ Android Studioでflutterアプリを開発できるようにするプラグイ�
 
 1. 初期画面でpuluginを押す。
 
-[画像]
+    <img src="../images/flutterPlugin1.png" height="300" />
 
-1. flutterと検索をする
+    上記の画面が出ない人は、以下のようにボタンを押してください。
+    <img src="../images/flutterPlugin4.png" height="300" />
 
-[画像]
+
+1. flutterと検索をし、Flutterの「install」を押す、
+
+    <img src="../images/flutterPlugin2.png" height="300" />
 
 
-1. Installを押す。
+1. Android studioを再起動する
 
-[画像]
+1. 初期画面で以下の「」が表示されていればOK
+
+    <img src="../images/flutterPlugin3.png" height="300" />
+
+
 
 
 
