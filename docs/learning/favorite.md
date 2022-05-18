@@ -40,6 +40,8 @@
 
 ## サンプル
 
+<video controls src="../videos/favorite.mov" height="300">
+</video>
 
 
 

@@ -32,5 +32,9 @@
 ## サンプル
 
 
+<video controls src="../videos/introduce.mov" height="300">
+</video>
+
+
 
 
