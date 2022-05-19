@@ -57,4 +57,4 @@ Software Development Kit = ソフトウェア開発キット
     - Windowsの場合
 
 
-
+    <iframe width="560" height="315" src="https://www.youtube.com/embed/s5Lw7ypBmDc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
