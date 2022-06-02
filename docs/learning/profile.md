@@ -25,7 +25,7 @@
 <iframe width="560" height="315" src="https://www.youtube.com/embed/X-Y1G3iNKpo?start=653" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 
-## テーマ / ヘッダーの色変更
+## テーマの色変更
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/X-Y1G3iNKpo?start=840" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
@@ -51,15 +51,17 @@
 
 # 課題1 プロフィールアプリを作りなさい。
 
-以下の項目を表示したアプリを作成しなさい。
+以下の条件に合ったアプリを作成しなさい。
 
-- 名前
-- コース
-- 部活/委員会
-- 好きな〇〇
+1. 以下の情報を記載する
 
-- ヘッダーやテーマの色は自由（blue以外を選択すること、。）
-- アイコンのfavoriteを使う。
+    - 名前
+    - コース
+    - 部活/委員会
+    - 好きな〇〇
+
+1.  テーマの色を変更する（blue以外を選択すること。）
+1.  アイコンをハートマーク（favorite）に設定する。
 
 
 ## サンプル

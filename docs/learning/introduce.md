@@ -1,21 +1,51 @@
 # 学校紹介アプリの作成
 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1WOaGfcOhiU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+## ウィジェットとは？
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1WOaGfcOhiU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+## プロパティとは？
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1WOaGfcOhiU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+
+## レイアウトについて
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1WOaGfcOhiU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+
+## childとchildren
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1WOaGfcOhiU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+## Centerウィジェット
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1WOaGfcOhiU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+## Paddingウィジェット
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1WOaGfcOhiU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+## Conatinerウィジェット
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1WOaGfcOhiU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
 
 ## Columnウィジェット
 
- [動画]
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1WOaGfcOhiU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-## Containerウィジェット
 
- [動画]
+## Rowウィジェット
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1WOaGfcOhiU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
 
 ## 画像の挿入
 
- [動画]
-
-## Paddingのウィジェット
-
- [動画]
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1WOaGfcOhiU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 
 
@@ -30,7 +60,6 @@
 - 好きな〇〇
 
 ## サンプル
-
 
 <video controls src="../videos/introduce.mov" height="300">
 </video>
