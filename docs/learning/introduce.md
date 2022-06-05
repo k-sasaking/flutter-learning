@@ -45,6 +45,9 @@
 
 ## 画像の挿入
 
+<a href="../images/android.png" download="" class="btn btn-success">画像ファイルをダウンロード</a>
+
+
 <iframe width="560" height="315" src="https://www.youtube.com/embed/1WOaGfcOhiU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 
