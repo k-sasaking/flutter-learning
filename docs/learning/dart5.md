@@ -6,7 +6,7 @@
 
 DarPad は、オンライン上で Dart のプログラムを実行できる環境です。
 
-[https://dartpad.dev/?](https://dartpad.dev/?)
+[https://dartpad.dev/?](https://dartpad.dev/?){:target="\_blank"}
 
 ※アカウント作成をしなくても実行ができます。
 
