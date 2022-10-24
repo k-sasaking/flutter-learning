@@ -92,7 +92,8 @@ void main() {
 
 ```
 void main() {
-  int score =  60;
+  int englishScore =  60;
+  int mathScore =  40;
 
   if(/*ここに追加*/){
     print(/*ここに追加*/);
