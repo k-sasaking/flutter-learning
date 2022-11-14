@@ -23,5 +23,6 @@ flutter の学習を通して、「課題解決能力」を身につけ、スマ
 | [課題 8:Dart 基礎 条件分岐 2](learning/dart6.md)   |
 | [課題 9:Dart 基礎 ループ処理](learning/dart7.md)   |
 | [課題 10:Dart 演習](learning/dart8.md)             |
-| [課題 11:Dart 基礎 乱数](learning/dart9.md)             |
-| [課題 12:Dart 基礎 配列](learning/dart10.md)             |
+| [課題 11:Dart 基礎 乱数](learning/dart9.md)        |
+| [課題 12:Dart 基礎 配列](learning/dart10.md)       |
+| [課題 13:Dart 基礎 関数](learning/dart11.md)       |
