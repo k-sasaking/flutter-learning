@@ -113,5 +113,7 @@ class _MyHomePageState extends State<MyHomePage> {
 
 - 「ボタンを押すと文字が変わります」に「じゃんけんをしますか？」と記載しましょう
 - 「ここにボタンが押された時の文字を書く:after」に「グー」「チョキ」「パー」がランダムに出るようにしましょう。
+- if 文ではなく、配列を使って表現しましょう
 
 <a href="https://k-sasaking.github.io/flutter-learning/learning/dart9.html" traget="_blank">ランダムな数の出し方</a>
+<a href="https://k-sasaking.github.io/flutter-learning/learning/dart10.html" traget="_blank">配列の使い方</a>
